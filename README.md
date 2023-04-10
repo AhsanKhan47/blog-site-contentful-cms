@@ -1,3 +1,3 @@
 # Blog page website in nextjs 13 using Headless CMS
 
-Live demo : [https://piaic-blogs.vercel.app/](https://piaic-blogs.vercel.app/) <br>
+Live demo : [https://blog-project-contentful.vercel.app/](https://blog-project-contentful.vercel.app/) <br>
