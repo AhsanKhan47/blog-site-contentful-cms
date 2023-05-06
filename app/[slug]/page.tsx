@@ -23,7 +23,7 @@ export default async function page({ params: { slug } }: Props) {
     <>
       <section className=" w-11/12  sm:w-10/12 lg:w-7/12 mx-auto bg-slate-300 p-12 md:p-10 ">
         <div
-          className="prose mx-auto w-full  
+          className="prose mx-auto w-full prose-a:text-blue-800 prose-a:font-medium  prose-h1:font-extrabold
         "
         >
           <h1>{post.title}</h1>

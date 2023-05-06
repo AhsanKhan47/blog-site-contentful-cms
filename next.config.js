@@ -8,7 +8,7 @@ const nextConfig = {
 
   env: {
     CONTENTFUL_SPACE_ID: 'zlug9c53a7am',
-    CONTENTFUL_ACCESS_KEY: 'p83Ibcax1fUDK3devhMo9jwCZ2B6Yk8JI6ZnfnWTo8o'
+    CONTENTFUL_ENVIRONMENT: 'master',
   },
   // images: {
   //   remotePatterns: [
